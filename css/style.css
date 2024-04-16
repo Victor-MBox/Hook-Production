@@ -593,6 +593,11 @@ h1 {
 }
 .footer__copyright {
   margin-bottom: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  color: #948171;
 }
 .footer__link {
   display: -webkit-box;
